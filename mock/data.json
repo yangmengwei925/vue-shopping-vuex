@@ -1,0 +1,28 @@
+[
+    {
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568823830464&di=9a005263688a710de2c327959be9ddce&imgtype=0&src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F16%2F11%2F07%2Fab6e055248a32b919efc0fbe645050d3.jpg",
+        "title": "进口柑 约450g",
+        "newPrice": "9.90",
+        "num": 1,
+        "id": 1,
+        "flag": true
+    },
+    {
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568824106320&di=e284f33e3ae307551c38973e2f21165b&imgtype=0&src=http%3A%2F%2Fpic15.nipic.com%2F20110712%2F7513979_145604672174_2.jpg",
+        "title": "红李 约900g",
+        "newPrice": "7.20",
+        "oldPrice": "9.90",
+        "num": 1,
+        "id": 2,
+        "flag": true
+    },
+    {
+        "img": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1568824137892&di=a2804d365bfd35dff0bd570538e2e8b3&imgtype=0&src=http%3A%2F%2Fimgsa.baidu.com%2Fexp%2Fpic%2Fitem%2Fd048adde9c82d158a87b490f810a19d8bd3e4257.jpg",
+        "title": "京欣西瓜 1粒",
+        "newPrice": "19.99",
+        "oldPrice": "26.00",
+        "num": 1,
+        "id": 3,
+        "flag": true
+    }
+]
