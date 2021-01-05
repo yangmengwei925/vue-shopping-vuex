@@ -16,7 +16,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.1.0",
     "vant": "^2.2.1",
